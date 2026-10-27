@@ -1,6 +1,6 @@
 # College Portal – Dockerized Full Stack Project
 
-This is a Dockerized College Portal project built using multiple technologies.
+This is a Dockerized College Portal project built using multiple technologies (MERN stack).
 The entire project can be run on any laptop using only Docker and Docker Compose.
 
 ---
@@ -40,8 +40,7 @@ college-portal/
 ## How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/psniyathi06/college-portal.git
-
+   git clone https://github.com/yashaswidema18-lab/smart-campus-portal.git
 2. Go into the project folder:
    cd college-portal
 
@@ -87,4 +86,4 @@ Teacher:
 
 ## Author
 
-Sai Niyathi Poluri
+Dema Yashaswi
